@@ -98,7 +98,7 @@ public class Modul3Fase4 {
 	    for(int i=ArrCadis.length-1;i>=0;i--) {
 	    System.out.print(ArrCadis[i]);
 	    } 
-	    System.out.println(" ");
+	    System.out.println("  ");
 	    Character [] ArrSantander = new  Character [ciutat6.length()];
 	    for(int i=0;i<ciutat6.length();i++) {
 	    	ArrSantander[i]=ciutat6.charAt(i);
